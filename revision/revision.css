@@ -1,0 +1,29 @@
+html{
+	font-family: "Trebuchet Ms";
+}
+
+label{
+	margin-left: 4em;
+	float: left;
+	width: 250px;
+
+}
+
+fieldset,h1{
+	width: 600px;
+	font-family: "Trebuchet Ms";
+}
+
+table{
+	margin: auto;/*centre le tableau*/
+	border-collapse: collapse;/*colle les lignes du tableau*/
+	font-family: "Trebuchet Ms";
+}
+
+th{
+	background-color: green;
+}
+
+td{
+	padding: 5px;/*permet a ce que le texte ne se colle pas dans le tableaux*/
+}
